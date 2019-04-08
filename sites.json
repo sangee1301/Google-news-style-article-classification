@@ -1,0 +1,25 @@
+{
+  
+  "nytimes": {
+    "link": "https://www.nytimes.com/section/world"
+  },
+  "cnn": {
+    "link": "https://edition.cnn.com/world"
+  },
+ "washingtonpost": {
+    "link": "https://www.washingtonpost.com/world/?nid=top_nav_world&utm_term=.3015bf47578c"
+  },
+ "theguardian": {
+    "link": "https://www.theguardian.com/world"
+  },
+"foxnews": {
+    "link": "https://www.foxnews.com/world"
+ },
+"cbsnews": {
+    "link": "https://www.cbsnews.com/world/"
+ },
+"nbcnews": {
+    "link": "https://www.nbcnews.com/world"
+  }
+
+}
